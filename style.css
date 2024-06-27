@@ -1,0 +1,18 @@
+body{
+    background-color: lightblue;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.guessField{
+    background-color: lightcyan;
+    color: black;
+}
+#subt{
+    background-color: black;
+    color: white;
+}
